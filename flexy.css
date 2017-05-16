@@ -1,4 +1,12 @@
-/* GRID */
+/*
+* flexy V1.0.0
+* Copyright 2017, Tomasz Adamowicz
+* www.flexy.studio-adto.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 16/05/2017
+*/
+
 *,*::after,*::before  {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
