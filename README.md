@@ -7,3 +7,9 @@ flexy is a css grid which uses flexbox. It is heavily inspired by skeleton.css r
 
 
 For more info please visit flexy.studio-adto.pl. Feel free to fork me or comment.
+
+Update:
+
+ver 1.0.3 25 Nov 2017
+
+Added col-half for no gutter columns (column is exactly 50%).
