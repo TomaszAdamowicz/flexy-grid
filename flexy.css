@@ -1,5 +1,5 @@
 /*
-* flexy V1.0.1
+* flexy V1.0.3
 * Copyright 2017, Tomasz Adamowicz
 * www.flexy.studio-adto.com
 * Free to use under the MIT license.
@@ -131,8 +131,7 @@
       flex-basis: 39.3333333333%;
 }
 
-.col-6,
-.col-half {
+.col-6 {
   -ms-flex-preferred-size: 48%;
       flex-basis: 48%;
 }
@@ -166,6 +165,11 @@
 .col-12 {
   -ms-flex-preferred-size: 100%;
       flex-basis: 100%;
+}
+
+.col-half {
+  -ms-flex-preferred-size: 50%;
+      flex-basis: 50%;
 }
 
 /* Offset */
